@@ -1,0 +1,7 @@
+LAPORAN RIWAYAT TRANSAKSI BIOSKOP
+Nama Bioskop: Cinema XXI
+====================================
+1. Penonton: Putri | Film: Premiere Studio - Action | Jumlah Tiket: 1
+2. Penonton: Putri | Film: Ekonomis Studio - Drama | Jumlah Tiket: 2
+3. Penonton: Oki | Film: Premiere Studio - Action | Jumlah Tiket: 3
+====================================
